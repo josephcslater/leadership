@@ -43,7 +43,13 @@ All working files live in `Compassion as a superpower/`:
 - Keep new references added to `bibliography.md` in the same citation style
   and alphabetical order as the existing entries.
 - There is no build/test/lint tooling in this repo; do not add npm/Python
-  tooling or CI unless the user asks for it. If asked to regenerate the
-  `.ipynb` from `.md` (or vice versa) or export to PDF/PPTX/HTML, ask the
-  user which tool (Jupytext, Jupyter Book, or similar) they want used, since
-  none is currently installed or configured in this environment.
+  tooling or CI unless the user asks for it.
+- `jupytext` and `jupyter-book` are installed as isolated `uv tool`s (not
+  system/repo-managed dependencies) and are available on `PATH` via
+  `~/.local/bin`:
+  - Sync `leadership.md` and `leadership.ipynb`, e.g.
+    `jupytext --sync leadership.md` or
+    `jupytext --to md:myst leadership.ipynb`.
+  - Regenerate the reveal.js deck (`leadership.slides.html`) via
+    `jupyter-book`. Confirm the exact invocation with the user before
+    overwriting the generated HTML.
