@@ -1,0 +1,46 @@
+# Bibliography
+
+- Banaji, M. R., & Greenwald, A. G. (2013). *Blindspot: Hidden Biases of Good People*. Delacorte Press.
+- Bennis, W., & Biederman, P. W. (1997). *Organizing Genius: The Secrets of Creative Collaboration*. Addison-Wesley.
+- Bernstein, L. E. (2005). *Peer Today, Boss Tomorrow: Navigating Your Changing Role*. The Walk the Talk Company.
+- Bock, L. (2015). *Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead*. Twelve.
+- Brinkman, R., & Kirschner, R. (2012). *Dealing with People You Can't Stand: How to Bring Out the Best in People at Their Worst* (3rd ed.). McGraw Hill.
+- Carnegie, D. (1936). *How to Win Friends and Influence People*. Simon & Schuster.
+- Collins, J. (2001). *Good to Great: Why Some Companies Make the Leap...And Others Don't*. HarperBusiness.
+- Collins, J. (2019). *Turning the Flywheel: A Monograph to Accompany Good to Great*. HarperBusiness.
+- Collins, J. C., & Porras, J. I. (1994). *Built to Last: Successful Habits of Visionary Companies*. HarperBusiness.
+- Collins, J., & Hansen, M. T. (2011). *Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All*. HarperBusiness.
+- Coyle, D. (2018). *The Culture Code: The Secrets of Highly Successful Groups*. Bantam Books.
+- Coyle, D. (2022). *The Culture Playbook: 60 Highly Effective Actions to Help Your Group Succeed*. Random House Publishing Group.
+- Cram, P. P. D. (2022). *Hard Thing About Hard Things: Beyond the Manual: Building a Business When There Is No Easy Way*. Independently Published.
+- Davies, D. (2024). *The Unaccountability Machine: Why Big Systems Make Terrible Decisions--And How the World Lost Its Mind*. University of Chicago Press.
+- Fisher, J. (2025). *The Next Conversation: Argue Less, Talk More*. Penguin Publishing Group.
+- Gladwell, M. (2013). *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants*. Little, Brown and Company.
+- Gregersen, H. (2018). *Questions Are the Answer: A Breakthrough Approach to Your Most Vexing Problems at Work and in Life*. HarperBusiness.
+- Groening, M. (2014). *C. Montgomery Burns' Handbook of World Domination*. Insight Editions.
+- Harris, J., & Aurelius, M. (2021). *Marcus Aurelius - Meditations: Adapted for the Contemporary Reader*. Independently published.
+- Havard, A. (2007). *Virtuous Leadership: An Agenda for Personal Excellence*. Scepter.
+- Horowitz, B. (2014). *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers*. HarperBusiness.
+- Horowitz, B. (2019). *What You Do Is Who You Are: How to Create Your Business Culture*. HarperBusiness.
+- Huang, L. (2020). *Edge: Turning Adversity into Advantage*. Portfolio.
+- Johansson, F. (2004). *The Medici Effect: What Elephants and Epidemics Can Teach Us About Innovation*. Harvard Business School Press.
+- King, W. J., & Skakoon, J. G. (2001). *The Unwritten Laws of Engineering*. ASME Press.
+- Maxwell, J. C. (2014). *Good Leaders Ask Great Questions: Your Foundation for Successful Leadership*. Center Street.
+- Morin, A. (2014). *13 Things Mentally Strong People Don't Do: Take Back Your Power, Embrace Change, Face Your Fears, and Train Your Brain for Happiness and Success*. William Morrow.
+- Morrison, E., Hutcheson, S., Nilsen, E., & Fadden, J. (2019). *Strategic Doing: Ten Skills for Agile Leadership*. Wiley.
+- Nanton, N. (2023). *Empathy and Understanding in Business*. Celebrity Press.
+- Navarro, J. (2018). *The Dictionary of Body Language: A Field Guide to Human Behavior*. William Morrow.
+- Navarro, J., & Karlins, M. (2008). *What Every BODY Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People*. William Morrow.
+- Neumeier, M. (2006). *Zag: The Number One Strategy of High-Performance Brands*. New Riders.
+- Olson, R. (2018). *Don't Be Such a Scientist: Talking Substance in an Age of Style* (2nd ed.). Island Press.
+- Patterson, K., Grenny, J., Mcmillan, R., & Switzler, A. (2011). *Crucial Conversations Tools for Talking When Stakes Are High, Second Edition*. Mcgraw Hill Professional.
+- Patterson, K., Grenny, J., McMillan, R., Switzler, A., & Gregory, E. (2021). *Crucial Conversations: Tools for Talking When Stakes Are High* (3rd ed.). McGraw Hill.
+- Peterson, J. B. (2018). *12 Rules for Life: An Antidote to Chaos*. Random House Canada.
+- Robert, H. M. (1951). *Robert's Rules of Order Revised*. Scott Foresman and Company.
+- Stone, D., Patton, B., & Heen, S. (1999). *Difficult Conversations: How to Discuss What Matters Most*. Viking.
+- Voss, C., & Raz, T. (2016). *Never Split the Difference: Negotiating as If Your Life Depended on It*. HarperBusiness.
+- Watkins, M. D. (2013). *The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter* (Updated and expanded ed.). Harvard Business Review Press.
+- Weber, E. L. (2024). *Active Listening [3-in-1]: 113 Techniques and Tips to Improve Your Relationships Through the Art of Empathic Communication*. Independently published.
+- Weinstein, H. M. (2009). *The Stress Effect: Why Smart Leaders Make Dumb Decisions--And What to Do About It*. Hudson Street Press.
+- Willink, J., & Babin, L. (2015). *Extreme Ownership: How U.S. Navy SEALs Lead and Win*. St. Martin's Press.
+- Willink, J., & Babin, L. (2018). *The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win*. St. Martin's Press.

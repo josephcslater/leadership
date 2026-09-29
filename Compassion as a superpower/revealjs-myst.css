@@ -1,0 +1,17 @@
+/* custom.css */
+.reveal {
+  font-size: 28px; /* Change base font size */
+}
+
+.reveal h1 {
+  font-size: 2.2em;
+}
+
+.reveal h2 {
+  font-size: 1.8em;
+}
+
+.reveal h3 {
+  font-size: 1.4em;
+}
+
