@@ -14,7 +14,7 @@ kernelspec:
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-# Leadership: as I see it
+# Empathy as a Superpower
 Joseph C. Slater
 
 April 16, 2026
