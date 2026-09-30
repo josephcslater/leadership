@@ -223,6 +223,8 @@ People can tell when you are fake or selfish.
 
 - Ensure everyone understands the mission and the parameters
 
++++ {"slideshow": {"slide_type": "slide"}}
+
 # Pitfalls
 
 - (Blindspot)
@@ -304,7 +306,8 @@ People can tell when you are fake or selfish.
 
 - Patterson, K., Grenny, J., McMillan, R., Switzler, A., & Gregory, E. (2021). *Crucial Conversations: Tools for Talking When Stakes Are High* (3rd ed.). McGraw Hill.
 - Peterson, J. B. (2018). *12 Rules for Life: An Antidote to Chaos*. Random House Canada.
-- Robert, H. M. (1951). *Robert's Rules of Order Revised*. Scott Foresman and Company.- Stone, D., Patton, B., & Heen, S. (1999). *Difficult Conversations: How to Discuss What Matters Most*. Viking.
+- Robert, H. M. (1951). *Robert's Rules of Order Revised*. Scott Foresman and Company.
+- Stone, D., Patton, B., & Heen, S. (1999). *Difficult Conversations: How to Discuss What Matters Most*. Viking.
 - Voss, C., & Raz, T. (2016). *Never Split the Difference: Negotiating as If Your Life Depended on It*. HarperBusiness.
 - Watkins, M. D. (2013). *The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter* (Updated and expanded ed.). Harvard Business Review Press.
 - Weber, E. L. (2024). *Active Listening [3-in-1]: 113 Techniques and Tips to Improve Your Relationships Through the Art of Empathic Communication*. Independently published.
